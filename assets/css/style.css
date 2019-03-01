@@ -1,0 +1,28 @@
+/*Pyschic Style Sheet*/
+
+body {
+	background-size: cover;
+	margin: 0 auto;
+	padding: 0 auto;
+	width: 960px;
+}
+
+#psychicInfo {
+	height: 100%;
+	width: 655px;
+	padding: 20px;
+	margin-top: 85px;
+	background-color: rgba(4, 3, 1, 0.41);
+}ß
+
+h1 {
+	color: #ffffff;
+	font-size: 45px;
+	text-shadow: 2px 2px #FFB733;
+}
+
+p {
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	font-size: 30px;
+	color: #ffffff;
+}
